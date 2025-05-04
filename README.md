@@ -336,7 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>
-    <strong>NetSentry</strong> - Advanced Network Monitoring in Modern C++
+    <strong>llm-outputVerifier</strong> - LLM-specific output checker
   </p>
   <p>
     <a href="https://github.com/muhkartal/netsentry">GitHub</a> •
